@@ -1,0 +1,13 @@
+<html>
+<body>
+<h3>Input "radio" type</h3>
+ <form>
+  <p>kindly select your favourite color</p>
+  <inpuy type="radio" name="color" value="1">Naja<br>
+  <inpuy type="radio" name="color" value="2">Naji<br>
+  <inpuy type="radio" name="color" value="3">Thanu<br>
+  <inpuy type="radio" name="color" value="4">Shabu<br>
+  <input type="submit" value="submit">
+</form>
+</body>
+</html>
