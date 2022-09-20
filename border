@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+div {
+  border:1px solid black;
+  margin:25px 50px;
+  background-color:lightblue;
+}
+</style>
+</head>
+<body>
+
+<h2> The margin shorthand property - 1 value</h2>
+
+<div>This div elemet has a top,bottom,left,right margin of 25px.</div>
+
+<hr>
+
+</body>
+</html>
